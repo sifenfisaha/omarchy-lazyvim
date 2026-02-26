@@ -1,0 +1,1 @@
+/home/sifenfisaha/.config/omarchy/current/theme/neovim.lua
