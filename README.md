@@ -24,7 +24,7 @@ mv ~/.config/nvim ~/.config/nvim_backup
 2. **Clone this repository to your Neovim configuration directory:**
 
 ```bash
-git clone [https://github.com/sifenfisaha/nvim.git](https://github.com/sifenfisaha/omarchy-lazyvim) ~/.config/nvim
+git clone https://github.com/sifenfisaha/omarchy-lazyvim ~/.config/nvim
 ```
 
 3. **Open Neovim to automatically install and configure plugins:**
